@@ -89,8 +89,8 @@ Kuber Vegetarian Hotel is a modern, responsive web app for vegetarian restaurant
 ## 🚀 Usage
 ```bash
 # Clone the repo
-$ git clone https://github.com/yourusername/yourrepo.git
-$ cd yourrepo
+$ git clone https://github.com/HardikQuantumCybernetic/kuber_project.git
+$ cd kuber_project
 
 # Open index.html in your browser
 ```
