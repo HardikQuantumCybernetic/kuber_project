@@ -26,8 +26,7 @@
 <!-- LANGUAGE SELECTION -->
 <p align="center">
   <b>Docs:</b>
-  <a href="#">English</a> | <a href="#">हिंदी</a> | <a href="#">Español</a> | <a href="#">Français</a>
-</p>
+  <a href="#">English</a>  
 
 <!-- DONATION & NOTICE -->
 <p align="center">
